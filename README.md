@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Bhavya Tiwari
 
-<!--
-**bhavyagit890/bhavyagit890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python for Backend Development
+- 💻 Building web applications with React
+- 🧩 Solved 200+ LeetCode problems
+- 📚 Interested in Backend Development and Software Engineering
+
+## 🛠 Tech Stack
+
+### Languages
+- C++
+- Python (Learning)
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📌 Projects
+
+### 🤖 AI Notes Summarizer
+An AI-powered web application that summarizes notes and generates quizzes.
+
+### 📝 Quiz App
+A JavaScript-based quiz application.
+
+## 🎯 Current Goals
+
+- Reach 300+ LeetCode problems
+- Learn Django
+- Learn SQL & PostgreSQL
+- Build backend projects
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/bhavyaatiwari/
+- LeetCode: https://leetcode.com/u/Bhavya1123/
