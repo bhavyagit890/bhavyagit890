@@ -54,7 +54,7 @@ A JavaScript-based quiz application with interactive questions and score trackin
 
 ## 🎯 Current Goals
 
-- 📈 Reach 300+ LeetCode problems
+
 - 🐍 Strengthen Python and Django backend development
 - 🗄️ Master SQL and learn PostgreSQL
 - 🔌 Understand REST APIs, authentication, and backend architecture
